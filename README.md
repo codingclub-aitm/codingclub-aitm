@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**codingclub-aitm/codingclub-aitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AITM Coding Club
 
-Here are some ideas to get you started:
+**Empowering AITM students through real-world coding, open-source collaboration, and innovation.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vision
+Foster a strong coding culture at AITM where students grow into developers and innovators.
+
+## What We Do
+- Organize workshops & hackathons
+- Build real-world software projects
+- Promote open-source contributions
+- Run coding challenges and contests
+
+## Projects
+- `club-website` – Our official React + Tailwind site
+- `coding-challenges` – Weekly/monthly DSA & CP tasks
+- `project-templates` – Starter kits for Django, React, etc.
+
+## Join Us
+Interested in contributing or collaborating?  
+Reach us at [code@anjuman.edu.in](mailto:code@anjuman.edu.in)
+
+---
+
+_Visit our website: https://codingclub.aitm.edu.in (coming soon!)_
